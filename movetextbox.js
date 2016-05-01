@@ -1,5 +1,5 @@
 var screenSize = Controller.getViewportDimensions();
-var BUTTON_SIZE = 32;
+var BUTTON_SIZE = 100;
 var PADDING = 3;
 var rotation = 0;
 
