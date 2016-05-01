@@ -1,4 +1,7 @@
 (function(){ 
+	var skyboxId = "{7626c954-6ade-41b4-a1be-411cfdf1241c}";
+	var skyboxProperties = Entities.getEntityProperties(skyboxId);
+    var xPosition = JSON.stringify(sProperties);
     var clicked = false;
     this.clickDownOnEntity = function(entityID, mouseEvent) { 
         if (clicked){
