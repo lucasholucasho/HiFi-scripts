@@ -4,7 +4,7 @@ var PADDING = 3;
 var xyrotation = 0;
 var yzrotation = 0;
 var xzrotation = 0;
-var textId = "{25dc5148-1091-472a-90e8-3c76f0c7809e}";
+var textId = "{77bdc7a0-f78c-4fd3-bbde-2e6b93d509d7}";
 
 
 //a helper library for creating toolbars
